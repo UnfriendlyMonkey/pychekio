@@ -1,3 +1,5 @@
+# https://py.checkio.org/en/mission/backward-each-word/
+
 import re
 from itertools import zip_longest
 
